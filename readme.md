@@ -1,1 +1,3 @@
-repository for information about small data topics!
+_____________________________________________________________________________________________________
+This Repository contains all the relevant study material you need to know about various algorithms.
+_____________________________________________________________________________________________________
